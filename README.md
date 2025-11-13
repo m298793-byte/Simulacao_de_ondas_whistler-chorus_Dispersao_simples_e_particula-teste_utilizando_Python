@@ -13,7 +13,7 @@ Orientador:
 
 Gustavo do Amaral Valdiviesso
 
-📘 Descrição Geral
+Descrição Geral
 
 Este repositório apresenta uma simulação didática de ondas whistler/chorus na magnetosfera terrestre. O projeto contempla:
 
@@ -35,7 +35,7 @@ B
 
 O trabalho reforça conceitos de física de plasmas, ressonância ciclotrônica, integração numérica e visualização científica usando Python (NumPy, Matplotlib, FFT e RK4).
 
-🔬 Contexto Físico
+Contexto Físico
 
 Na magnetosfera terrestre, elétrons aprisionados executam movimento helicoidal em torno das linhas de campo magnético com frequência ciclotrônica:
 
@@ -104,8 +104,8 @@ robustez da ressonância ao variar a fase inicial
 
 .
 
-🧮 Modelagem Matemática
-📌 Dispersão fria (modo R)
+Modelagem Matemática
+Dispersão fria (modo R)
 𝑛
 2
 (
@@ -160,7 +160,7 @@ n(ω)ω
 	​
 
 .
-📌 Movimento da partícula-teste
+Movimento da partícula-teste
 𝑥
 ˙
 =
@@ -269,7 +269,7 @@ x
 
 Integração realizada com Runge–Kutta de 4ª ordem (RK4).
 
-🎯 Objetivos
+Objetivos
 
 Implementar a dispersão fria do modo whistler;
 
@@ -283,14 +283,14 @@ Aplicar FFT para análise espectral;
 
 Criar gráficos e animações científicos.
 
-📁 Estrutura do Repositório
+Estrutura do Repositório
 Projeto_Computacao_Cientifica.ipynb   # Notebook principal
 config.json (opcional)                # Parâmetros externos
 animations/                           # MP4 das animações (opcional)
 README.md                             # Este documento
 LICENSE                               # Licença MIT
 
-▶️ Como Executar
+Como Executar
 Instalar dependências:
 pip install numpy matplotlib
 
@@ -328,7 +328,7 @@ mini-Vlasov;
 
 animações MP4.
 
-📊 Resultados Obtidos
+Resultados Obtidos
 
 Curva de dispersão: identifica regiões propagantes;
 
@@ -352,7 +352,7 @@ FFT confirmando o conteúdo espectral;
 
 Mini-Vlasov revelando evolução no espaço de fase.
 
-🧠 Arquitetura Computacional
+Arquitetura Computacional
 
 Integração RK4 estável e reprodutível;
 
@@ -382,12 +382,12 @@ Animações exportadas para MP4;
 
 Semente fixa para reprodutibilidade numérica.
 
-🏁 Conclusões
+Conclusões
 
 O projeto demonstra claramente o mecanismo de ressonância ciclotrônica e seu papel na dinâmica de partículas e ondas em plasmas magnetizados.
 Além disso, consolida competências práticas em modelagem, simulação e visualização científica.
 
-📚 Referências
+Referências
 
 As referências completas encontram-se no arquivo bibliografia.tex presente no Overleaf:
 
@@ -401,7 +401,7 @@ Chen (2016) — Introdução à física de plasmas
 
 Hunter (2007) — Matplotlib
 
-📜 Licença
+Licença
 
 Este projeto está sob a MIT License.
 Uso livre, desde que citados os autores.
