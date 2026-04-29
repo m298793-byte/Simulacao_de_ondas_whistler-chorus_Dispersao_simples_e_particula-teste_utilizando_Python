@@ -158,8 +158,6 @@ Além disso, desenvolve habilidades práticas em modelagem física, programaçã
 
   Referências
 
-As referências completas estão no arquivo bibliografia.tex no Overleaf:
-
 Stix (1992) — Waves in Plasmas
 
 Omura et al. (2008) — Generation of whistler-mode chorus
