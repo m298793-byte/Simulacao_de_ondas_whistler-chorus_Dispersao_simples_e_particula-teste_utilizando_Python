@@ -5,10 +5,6 @@ Autores:
 
 Mauricio Alejandro González Lucero Villalba
 
-Gustavo Schulte
-
-Luis Monteiro
-
 Orientador:
 
 Gustavo do Amaral Valdiviesso
